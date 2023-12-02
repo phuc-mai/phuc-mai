@@ -1,6 +1,6 @@
 # Phuc Mai's GitHub Profile 🚀
 
-Welcome to my GitHub playground! 👋 I'm <Your Name>, a passionate full-stack developer who loves to turn ideas into reality through code. Feel free to explore my repositories, projects, and contributions. Don't forget to star your favorites! ⭐️
+Welcome to my GitHub playground! 👋 I'm Phuc Mai, a passionate full-stack developer who loves to turn ideas into reality through code. Feel free to explore my repositories, projects, and contributions. Don't forget to star your favorites! ⭐️
 
 ## 🚀 Quick Overview
 
